@@ -73,4 +73,4 @@ for steps in range(100):
 
 
 
-สามารถทดลองเพิ่มเติมได้ตามลิ้งค์ ด้านบน
+สามารถทดลองเพิ่มเติมได้ตามลิ้งค์ [[https://docs.python.org/3/library/turtle.html]]
