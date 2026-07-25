@@ -1,4 +1,6 @@
 "เริ่มต้นสร้างสหพันธ์ความรู้"
+https://github.com/snufkinmoominland/snufkin-federation_system
+https://snufmin-moominland.gitbook.io/snufmin.moominland-docs/~/changes/1
 
 
 ### 🏛️ สรุปโครงสร้าง:
