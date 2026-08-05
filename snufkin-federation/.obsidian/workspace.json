@@ -4,31 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "cf97e3d02ba6d497",
+        "id": "37924dc5519e692d",
         "type": "tabs",
         "children": [
           {
-            "id": "c506f8bca648161c",
+            "id": "7b94ceaa81b6c1ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "!Welcome.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "!Welcome"
             }
           }
         ]
@@ -51,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -88,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "11bccca24c69d7b1",
@@ -194,40 +185,45 @@
       "bases:Create new base": false
     }
   },
-  "active": "c506f8bca648161c",
+  "active": "7b94ceaa81b6c1ab",
   "lastOpenFiles": [
-    "คู่มือการเรียนรู้-ตรรกะและการแก้ไขปัญหาด้วยการเขียนโปรแกรม.md",
-    "Python with snake1 งู.md",
+    "Python/คู่มือการเรียนรู้-ตรรกะและการแก้ไขปัญหาด้วยการเขียนโปรแกรม.md",
+    "Python/เรียนPrograming Python.md",
+    "Python/Python with หัวใจ 1.md",
+    "Python/Python with turtle1 เต่า.md",
+    "Python/Python with snake1 งู.md",
+    "Quantum/PQC Secure Boot.md",
+    "Quantum/QRNG - Quantum Random Number Generator.md",
+    "Quantum/Civil Spillover.md",
+    "Quantum/Datalink and Playload.md",
+    "Quantum/Deterministic Pseudo-randomness.md",
+    "Quantum/Harvest Now, Decrypt Later (HNDL).md",
+    "Quantum/Spoofing (การสปูฟฟิง).md",
+    "Quantum/บทเรียนจากสงครามอิเล็กทรอนิกส์ในสมรภูมิปัจจุบัน.md",
+    "Quantum/สถาปัตยกรรมโล่ป้องกัน 5 ชั้น (5-Layer Defense).md",
+    "Quantum/หนี้สินด้านความปลอดภัย Security Debt.md",
+    "Quantum/อัลกอริทึมของชอร์ (Shor’s Algorithm).md",
+    "Quantum/QKMS (Quantum Key Management System).md",
+    "Quantum/MLKEM _ MLDSA.md",
+    "Quantum/สมการของ Mosca.md",
+    "Drone/Deterministic PRNG (Pseudo-Random Number Generator).md",
+    "!Welcome.md",
+    "Clippings/518eca4e-e042-4627-b2fc-69f354d02ccf.png",
+    "Clippings",
+    "Untitled 2.base",
+    "Untitled 1.base",
+    "Untitled.base",
+    "Drone/Anti Jamming + Frequency Hopping.md",
+    "Quantum/One Quantum Break Opens Seven Doors Simultaneously.md",
+    "Drone",
+    "Quantum",
+    "C/Untitled.md",
+    "HTML CSS",
+    "JAVA",
+    "C",
+    "Python",
     "!Form Pattern/ต้นแบบ File ทั่วไป.md",
     "!Form Pattern/ต้นแบบ Data view.md",
-    "!Dataview/python.md",
-    "!Dataview/Programming.md",
-    "!Dataview/nmap.md",
-    "!Dataview/linux.md",
-    "!Dataview/Debugging.md",
-    "!Dataview/cybersecurity.md",
-    "!Dataview/Cheat Sheet.md",
-    "!Dataview/Bugs.md",
-    "!Dataview/TryHackMe.md",
-    "!Dataview/subnet.md",
-    "!Dataview/subfinder.md",
-    "!Dataview/splunk.md",
-    "!Dataview/SOC.md",
-    "!Dataview/SIEM.md",
-    "!Dataview/shodan.md",
-    "!Dataview/scripts.md",
-    "!Dataview/reverseshell.md",
-    "!Dataview/reconnaissance.md",
-    "!Dataview/privilegepe_scalation.md",
-    "!Dataview/OSI Model.md",
-    "!Dataview/offensive.md",
-    "!Dataview/networking.md",
-    "Untitled.base",
-    "Untitled.canvas",
-    "!Form Pattern",
-    "!Dataview",
-    "Cybersecurity",
-    "Python",
-    "Untitled"
+    "Untitled.canvas"
   ]
 }
