@@ -1,5 +1,8 @@
 
+Output
+https://www.youtube.com/shorts/iiIowDj3eUg
 
+![[Pasted image 20261005010902.png|197]]
 
 ### 🌟 สรุปภาพรวม: เส้นทางวิวัฒนาการ "สถาปัตยกรรม AI-OS ที่สมบูรณ์แบบ"
 

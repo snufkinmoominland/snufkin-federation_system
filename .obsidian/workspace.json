@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "snufkin-federation/OS/Setup for safety/คู่มือพิมพ์เขียวและฐานข้อมูลสถาปัตยกรรมระบบปฏิบัติการ AI อัจฉริยะ (Future Autonomous AI-OS Architecture Blueprint & Master Database Manual).md",
+                "file": "snufkin-federation/OS/LAB/คู่มือพิมพ์เขียวสถาปัตยกรรมและฐานข้อมูลสำหรับระบบปฏิบัติการ AI อัจฉริยะส่วนบุคคล ( Autonomous AI-OS Master Blueprint & Database Manual).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "คู่มือพิมพ์เขียวและฐานข้อมูลสถาปัตยกรรมระบบปฏิบัติการ AI อัจฉริยะ (Future Autonomous AI-OS Architecture Blueprint & Master Database Manual)"
+              "title": "คู่มือพิมพ์เขียวสถาปัตยกรรมและฐานข้อมูลสำหรับระบบปฏิบัติการ AI อัจฉริยะส่วนบุคคล ( Autonomous AI-OS Master Blueprint & Database Manual)"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "snufkin-federation/OS/Setup for safety/คู่มือพิมพ์เขียวและฐานข้อมูลสถาปัตยกรรมระบบปฏิบัติการ AI อัจฉริยะ (Future Autonomous AI-OS Architecture Blueprint & Master Database Manual).md",
+                "file": "snufkin-federation/OS/LAB/คู่มือพิมพ์เขียวสถาปัตยกรรมและฐานข้อมูลสำหรับระบบปฏิบัติการ AI อัจฉริยะส่วนบุคคล ( Autonomous AI-OS Master Blueprint & Database Manual).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "snufkin-federation/OS/Setup for safety/คู่มือพิมพ์เขียวและฐานข้อมูลสถาปัตยกรรมระบบปฏิบัติการ AI อัจฉริยะ (Future Autonomous AI-OS Architecture Blueprint & Master Database Manual).md",
+                "file": "snufkin-federation/OS/LAB/คู่มือพิมพ์เขียวสถาปัตยกรรมและฐานข้อมูลสำหรับระบบปฏิบัติการ AI อัจฉริยะส่วนบุคคล ( Autonomous AI-OS Master Blueprint & Database Manual).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "snufkin-federation/OS/Setup for safety/คู่มือพิมพ์เขียวและฐานข้อมูลสถาปัตยกรรมระบบปฏิบัติการ AI อัจฉริยะ (Future Autonomous AI-OS Architecture Blueprint & Master Database Manual).md",
+                "file": "snufkin-federation/OS/LAB/คู่มือพิมพ์เขียวสถาปัตยกรรมและฐานข้อมูลสำหรับระบบปฏิบัติการ AI อัจฉริยะส่วนบุคคล ( Autonomous AI-OS Master Blueprint & Database Manual).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -190,11 +190,15 @@
   },
   "active": "f48dba449e90d100",
   "lastOpenFiles": [
+    "Pasted image 20261005011328.png",
+    "Pasted image 20261005011300.png",
+    "Pasted image 20261005011200.png",
+    "snufkin-federation/OS/LAB/คู่มือพิมพ์เขียวและฐานข้อมูลสถาปัตยกรรมระบบปฏิบัติการ AI อัจฉริยะ (Future Autonomous AI-OS Architecture Blueprint & Master Database Manual).md",
+    "Pasted image 20261005010902.png",
+    "snufkin-federation/OS/LAB/คู่มือพิมพ์เขียวสถาปัตยกรรมและฐานข้อมูลสำหรับระบบปฏิบัติการ AI อัจฉริยะส่วนบุคคล ( Autonomous AI-OS Master Blueprint & Database Manual).md",
     "snufkin-federation/!Welcome.md",
-    "snufkin-federation/OS/Setup for safety/คู่มือพิมพ์เขียวและฐานข้อมูลสถาปัตยกรรมระบบปฏิบัติการ AI อัจฉริยะ (Future Autonomous AI-OS Architecture Blueprint & Master Database Manual).md",
-    "snufkin-federation/OS/Setup for safety/คู่มือพิมพ์เขียวสถาปัตยกรรมและฐานข้อมูลสำหรับระบบปฏิบัติการ AI อัจฉริยะส่วนบุคคล ( Autonomous AI-OS Master Blueprint & Database Manual).md",
     "snufkin-federation/Python/คู่มือการเรียนรู้-ตรรกะและการแก้ไขปัญหาด้วยการเขียนโปรแกรม.md",
-    "snufkin-federation/OS/Setup for safety",
+    "snufkin-federation/OS/LAB",
     "snufkin-federation/OS",
     "Untitled",
     "snufkin-federation/Python/Python with หัวใจ 1.md",
@@ -218,7 +222,6 @@
     "snufkin-federation/!DeckBook/Programming.md",
     "snufkin-federation/!DeckBook/nmap.md",
     "snufkin-federation/!DeckBook/linux.md",
-    "snufkin-federation/!DeckBook/Debugging.md",
-    "snufkin-federation/!DeckBook/cybersecurity.md"
+    "snufkin-federation/!DeckBook/Debugging.md"
   ]
 }
