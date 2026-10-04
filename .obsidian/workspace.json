@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "67c44b1e4b80b06e",
+    "id": "93826d6ae85e119b",
     "type": "split",
     "children": [
       {
-        "id": "37924dc5519e692d",
+        "id": "c29d8bf8305289f8",
         "type": "tabs",
         "children": [
           {
-            "id": "aed5836d0e5f4781",
+            "id": "f48dba449e90d100",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "!Welcome.md",
+                "file": "snufkin-federation/!Welcome.md",
                 "mode": "source",
                 "source": false
               },
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "286027c00daf9db5",
+    "id": "7c064b173b7a59f4",
     "type": "split",
     "children": [
       {
-        "id": "ced40083d1d8e62e",
+        "id": "3a6cceb43a2ee5a6",
         "type": "tabs",
         "children": [
           {
-            "id": "875c3993b810e602",
+            "id": "93e428998c1a33ca",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -50,7 +50,7 @@
             }
           },
           {
-            "id": "8fabb219e900342d",
+            "id": "28e2dba75a9d16b7",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -67,11 +67,14 @@
             }
           },
           {
-            "id": "1dad4069012fc686",
+            "id": "c20ab27d3cadf8d3",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
@@ -83,48 +86,48 @@
     "width": 300
   },
   "right": {
-    "id": "11bccca24c69d7b1",
+    "id": "fd8f269aee3f8266",
     "type": "split",
     "children": [
       {
-        "id": "eb42c2f753227ab9",
+        "id": "97c3fb538401e3e1",
         "type": "tabs",
         "children": [
           {
-            "id": "08029fe0bf33dbc8",
+            "id": "e6bc65361223bce8",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python with snake1 งู.md",
+                "file": "snufkin-federation/!Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Python with snake1 งู"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "92df14368e600707",
+            "id": "25e57c653f1296b3",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Python with turtle.md",
+                "file": "snufkin-federation/!Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Python with turtle"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "f365644df30927c8",
+            "id": "9296e2163ad63977",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -139,7 +142,7 @@
             }
           },
           {
-            "id": "26489ad8ab799d93",
+            "id": "cb2fa513e4214a38",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -153,18 +156,18 @@
             }
           },
           {
-            "id": "cad91a69e24a65a8",
+            "id": "6cff2adf58ff011a",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Python with turtle.md",
+                "file": "snufkin-federation/!Welcome.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Python with turtle"
+              "title": "Outline"
             }
           }
         ]
@@ -185,44 +188,37 @@
       "bases:Create new base": false
     }
   },
-  "active": "aed5836d0e5f4781",
+  "active": "f48dba449e90d100",
   "lastOpenFiles": [
-    "Tips & Tricks/ลบอักขระล่องหน (Zero-Width Characters) ด้วย PowerShell.md",
-    "Tips & Tricks",
-    "!Welcome.md",
-    "Untitled 1",
-    "Python/คู่มือการเรียนรู้-ตรรกะและการแก้ไขปัญหาด้วยการเขียนโปรแกรม.md",
-    "Python/เรียนPrograming Python.md",
-    "Python/Python with หัวใจ 1.md",
-    "Python/Python with turtle1 เต่า.md",
-    "Python/Python with snake1 งู.md",
-    "Quantum/PQC Secure Boot.md",
-    "Quantum/QRNG - Quantum Random Number Generator.md",
-    "Quantum/Civil Spillover.md",
-    "Quantum/Datalink and Playload.md",
-    "Quantum/Deterministic Pseudo-randomness.md",
-    "Quantum/Harvest Now, Decrypt Later (HNDL).md",
-    "Quantum/Spoofing (การสปูฟฟิง).md",
-    "Quantum/บทเรียนจากสงครามอิเล็กทรอนิกส์ในสมรภูมิปัจจุบัน.md",
-    "Quantum/สถาปัตยกรรมโล่ป้องกัน 5 ชั้น (5-Layer Defense).md",
-    "Quantum/หนี้สินด้านความปลอดภัย Security Debt.md",
-    "Quantum/อัลกอริทึมของชอร์ (Shor’s Algorithm).md",
-    "Quantum/QKMS (Quantum Key Management System).md",
-    "Quantum/MLKEM _ MLDSA.md",
-    "Quantum/สมการของ Mosca.md",
-    "Drone/Deterministic PRNG (Pseudo-Random Number Generator).md",
-    "Clippings/518eca4e-e042-4627-b2fc-69f354d02ccf.png",
-    "Clippings",
-    "Untitled 2.base",
-    "Untitled 1.base",
-    "Untitled.base",
-    "Drone/Anti Jamming + Frequency Hopping.md",
-    "Quantum/One Quantum Break Opens Seven Doors Simultaneously.md",
-    "Drone",
-    "Quantum",
-    "C/Untitled.md",
-    "HTML CSS",
-    "JAVA",
-    "Untitled.canvas"
+    "snufkin-federation/OS/Setup for safety/คู่มือพิมพ์เขียวสถาปัตยกรรมและฐานข้อมูลสำหรับระบบปฏิบัติการ AI อัจฉริยะส่วนบุคคล ( Autonomous AI-OS Master Blueprint & Database Manual).md",
+    "snufkin-federation/!Welcome.md",
+    "snufkin-federation/Python/คู่มือการเรียนรู้-ตรรกะและการแก้ไขปัญหาด้วยการเขียนโปรแกรม.md",
+    "snufkin-federation/OS/Setup for safety",
+    "snufkin-federation/OS",
+    "Untitled",
+    "snufkin-federation/Python/Python with หัวใจ 1.md",
+    "snufkin-federation/Python/Python with turtle1 เต่า.md",
+    "snufkin-federation/Python/Python with snake1 งู.md",
+    "snufkin-federation/!Form Pattern/ต้นแบบ DeckBook.md",
+    "snufkin-federation/!Form Pattern/ต้นแบบ File ทั่วไป.md",
+    "snufkin-federation/Tips & Tricks/ลบอักขระล่องหน (Zero-Width Characters) ด้วย PowerShell.md",
+    "snufkin-federation/Quantum/หนี้สินด้านความปลอดภัย Security Debt.md",
+    "snufkin-federation/Quantum/อัลกอริทึมของชอร์ (Shor’s Algorithm).md",
+    "snufkin-federation/Quantum/QKMS (Quantum Key Management System).md",
+    "snufkin-federation/Quantum/PQC Secure Boot.md",
+    "snufkin-federation/Quantum/One Quantum Break Opens Seven Doors Simultaneously.md",
+    "snufkin-federation/Quantum/Harvest Now, Decrypt Later (HNDL).md",
+    "snufkin-federation/Quantum/Deterministic Pseudo-randomness.md",
+    "snufkin-federation/Quantum/Datalink and Playload.md",
+    "snufkin-federation/Quantum/Civil Spillover.md",
+    "snufkin-federation/Drone/Deterministic PRNG (Pseudo-Random Number Generator).md",
+    "snufkin-federation/Drone/Anti Jamming + Frequency Hopping.md",
+    "snufkin-federation/Clippings/518eca4e-e042-4627-b2fc-69f354d02ccf.png",
+    "snufkin-federation/!DeckBook/Programming.md",
+    "snufkin-federation/!DeckBook/nmap.md",
+    "snufkin-federation/!DeckBook/linux.md",
+    "snufkin-federation/!DeckBook/Debugging.md",
+    "snufkin-federation/!DeckBook/cybersecurity.md",
+    "snufkin-federation/!DeckBook/Cheat Sheet.md"
   ]
 }
