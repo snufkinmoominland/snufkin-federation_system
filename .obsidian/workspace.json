@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "snufkin-federation/OS/LAB/คู่มือพิมพ์เขียวสถาปัตยกรรมและฐานข้อมูลสำหรับระบบปฏิบัติการ AI อัจฉริยะส่วนบุคคล ( Autonomous AI-OS Master Blueprint & Database Manual).md",
+                "file": "snufkin-federation/!Welcome.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "คู่มือพิมพ์เขียวสถาปัตยกรรมและฐานข้อมูลสำหรับระบบปฏิบัติการ AI อัจฉริยะส่วนบุคคล ( Autonomous AI-OS Master Blueprint & Database Manual)"
+              "title": "!Welcome"
             }
           }
         ]
@@ -190,23 +190,31 @@
   },
   "active": "f48dba449e90d100",
   "lastOpenFiles": [
-    "Pasted image 20261005011328.png",
-    "Pasted image 20261005011300.png",
-    "Pasted image 20261005011200.png",
-    "snufkin-federation/OS/LAB/คู่มือพิมพ์เขียวและฐานข้อมูลสถาปัตยกรรมระบบปฏิบัติการ AI อัจฉริยะ (Future Autonomous AI-OS Architecture Blueprint & Master Database Manual).md",
-    "Pasted image 20261005010902.png",
-    "snufkin-federation/OS/LAB/คู่มือพิมพ์เขียวสถาปัตยกรรมและฐานข้อมูลสำหรับระบบปฏิบัติการ AI อัจฉริยะส่วนบุคคล ( Autonomous AI-OS Master Blueprint & Database Manual).md",
-    "snufkin-federation/!Welcome.md",
+    "snufkin-federation/Cyber Security Tools/Top Cyber Tools.md",
+    "862850779_957403323711065_157610310018013367_n 3.jpg",
+    "862850779_957403323711065_157610310018013367_n 2.jpg",
+    "862850779_957403323711065_157610310018013367_n 1.jpg",
+    "862850779_957403323711065_157610310018013367_n.jpg",
+    "snufkin-federation/Tips & Tricks/ลบอักขระล่องหน (Zero-Width Characters) ด้วย PowerShell.md",
+    "snufkin-federation/Cyber Security Tools",
     "snufkin-federation/Python/คู่มือการเรียนรู้-ตรรกะและการแก้ไขปัญหาด้วยการเขียนโปรแกรม.md",
-    "snufkin-federation/OS/LAB",
-    "snufkin-federation/OS",
-    "Untitled",
     "snufkin-federation/Python/Python with หัวใจ 1.md",
     "snufkin-federation/Python/Python with turtle1 เต่า.md",
     "snufkin-federation/Python/Python with snake1 งู.md",
+    "snufkin-federation/OS/LAB/คู่มือพิมพ์เขียวและฐานข้อมูลสถาปัตยกรรมระบบปฏิบัติการ AI อัจฉริยะ (Future Autonomous AI-OS Architecture Blueprint & Master Database Manual).md",
+    "snufkin-federation/OS/LAB/คู่มือพิมพ์เขียวสถาปัตยกรรมและฐานข้อมูลสำหรับระบบปฏิบัติการ AI อัจฉริยะส่วนบุคคล ( Autonomous AI-OS Master Blueprint & Database Manual).md",
+    "snufkin-federation/Drone/Deterministic PRNG (Pseudo-Random Number Generator).md",
+    "snufkin-federation/Drone/Anti Jamming + Frequency Hopping.md",
+    "snufkin-federation/Clippings/Pasted image 20261005010902.png",
+    "snufkin-federation/Clippings/Pasted image 20261005011328.png",
+    "snufkin-federation/Clippings/Pasted image 20261005011300.png",
+    "snufkin-federation/Clippings/Pasted image 20261005011200.png",
+    "snufkin-federation/!Welcome.md",
+    "snufkin-federation/OS/LAB",
+    "snufkin-federation/OS",
+    "Untitled",
     "snufkin-federation/!Form Pattern/ต้นแบบ DeckBook.md",
     "snufkin-federation/!Form Pattern/ต้นแบบ File ทั่วไป.md",
-    "snufkin-federation/Tips & Tricks/ลบอักขระล่องหน (Zero-Width Characters) ด้วย PowerShell.md",
     "snufkin-federation/Quantum/หนี้สินด้านความปลอดภัย Security Debt.md",
     "snufkin-federation/Quantum/อัลกอริทึมของชอร์ (Shor’s Algorithm).md",
     "snufkin-federation/Quantum/QKMS (Quantum Key Management System).md",
@@ -216,12 +224,9 @@
     "snufkin-federation/Quantum/Deterministic Pseudo-randomness.md",
     "snufkin-federation/Quantum/Datalink and Playload.md",
     "snufkin-federation/Quantum/Civil Spillover.md",
-    "snufkin-federation/Drone/Deterministic PRNG (Pseudo-Random Number Generator).md",
-    "snufkin-federation/Drone/Anti Jamming + Frequency Hopping.md",
     "snufkin-federation/Clippings/518eca4e-e042-4627-b2fc-69f354d02ccf.png",
-    "snufkin-federation/!DeckBook/Programming.md",
-    "snufkin-federation/!DeckBook/nmap.md",
-    "snufkin-federation/!DeckBook/linux.md",
-    "snufkin-federation/!DeckBook/Debugging.md"
+    "snufkin-federation/!Form Pattern/!DeckBook/Programming.md",
+    "snufkin-federation/!Form Pattern/!DeckBook/nmap.md",
+    "snufkin-federation/!Form Pattern/!DeckBook/linux.md"
   ]
 }
